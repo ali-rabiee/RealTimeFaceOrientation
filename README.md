@@ -27,5 +27,8 @@ Linux, macOS, and Windows:
 git clone https://github.com/ali-rabiee/RealTimeFaceOrientation.git
 cd RealTimeFaceOrientation
 pip install -r requirements.txt
+
+## Usage
 python main.py
+
 
