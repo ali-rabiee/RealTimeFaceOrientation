@@ -44,7 +44,8 @@ Thanks to @ShayanK1996 who has contributed to this project
 
 This project uses the following license: MIT
 
-
+## Example
+[Screencast from 02-28-2024 11:36:13 AM.webm](https://github.com/ali-rabiee/RealTimeFaceOrientation/assets/78171247/93981a27-0c95-4f47-860b-d012a48e8716)
 
 
 
